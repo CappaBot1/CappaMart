@@ -1,0 +1,21 @@
+html {
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: #ccc;
+}
+
+nav img {
+    width: 32px;
+    height: 32px;
+}
+
+nav a {
+    background-color: #eee;
+    color: #000;
+    padding: 15px 25px;
+    text-decoration: none;
+}
